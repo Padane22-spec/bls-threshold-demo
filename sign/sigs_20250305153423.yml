@@ -1,0 +1,12 @@
+total_parties: 3
+threshold: 2
+threshold_public_key: ""
+sigs:
+    - party_id: 0
+      sig: IB2qGkqGgdWiYwA9IR2Rtu80sEvOCAB1OfLK0j1Z6oAuljlP+I/ZPoFunYo5D2KleKjtXPHTwoI7rWVrKgDiYA==
+    - party_id: 1
+      sig: H+52tlbfDGhSMIOjWv6ssKtnI0zSLSJUFHl3qaI5lVARMSw6wPcHCTfQdT2Z8xeojMnss93fgLsBlD1uvd/uDQ==
+    - party_id: 2
+      sig: Iz6i74ss4HhbKyQYkLcNjMBFYY/lEPlibQ+jdqkJjyMMhvPW84g8WfLS1MliJnkqlCdLefmyaASp19WwTQe0cw==
+    - party_id: 3
+      sig: LPc3fItUO1/B1b+0YZms/kKZjwO65PVTM9vKESawDLYEJUPjcfKwpsk0Dn9mL19ONr1vO3eE4cEpAGsJNJijjA==

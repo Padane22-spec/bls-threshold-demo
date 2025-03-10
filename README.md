@@ -122,7 +122,9 @@ sigs:
 ```
 
 ## 技术依赖
-https://github.com/IBM/TSS - BLS门限签名算法实现
+- https://github.com/IBM/TSS - BLS门限签名算法实现
+- https://github.com/bnb-chain/tss-lib - 币安开源TSS库
+- https://aandds.com/blog/open-source-tss-lib.html - 开源TSS库汇总
 
 ## 安全注意事项
 - 私钥分片应妥善保管，避免泄露
